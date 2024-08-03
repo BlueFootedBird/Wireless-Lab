@@ -26,4 +26,4 @@ What if we had computers pre-configured with the necessary hardware that student
 
 The figure below outlines how this environment was configured, and it was completely free of charge. The solution involved using ZeroTier to create a whitelisted private network that students could access via a VPN. I had three virtual machines running on my personal laptop. I also had a USB hub with three network adapters, each associated with a virtual machine. VirtualBox has a feature that allows someone to RDP into the machine, enabling multiple people to view the same session without disconnecting others. My computer was connected to the VPN, and a test student was able to access the VM via RDP, configured with the network adapter. The student remotely completed the lab attached to this GitHub repository, and I supervised their session the entire time. The implications of this proof of concept were astounding to me. This method could be used to create a virtual network for students to access, not just for wireless security, but for various purposes.
 
-![Alt text](/screenshot.png?raw=true "Diagram")
+![Alt text](/Screenshot.png?raw=true "Diagram")
