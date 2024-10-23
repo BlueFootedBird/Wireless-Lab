@@ -1,5 +1,5 @@
 # Wireless-Lab
-A simple Wireless Lab that I developed as a fun project as a way to teach other people about Wireless Security. Also lays the foundation for creating a completely free, remote network range to facialite hands-on labs for cybersecurity.
+A simple Wireless Lab that I developed as a fun project as a way to teach other people about Wireless Security. Also lays the foundation for creating a completely free, remote network range to facilitate hands-on labs for cybersecurity.
 
 # Let's Teach Wireless
 As both a student and a former teaching assistant, I firmly believe that the best way to teach and learn involves hands-on lab exercises. However, there are two main challenges when teaching wireless security with hands-on labs:
